@@ -1,5 +1,7 @@
 local supported = {
-    [79268393072444] = "https://raw.githubusercontent.com/NexusSpoofer/2BHub/refs/heads/main/selllemons.lua"
+    [79268393072444] = "https://raw.githubusercontent.com/NexusSpoofer/2BHub/refs/heads/main/selllemons.lua",
+    [138381251771774] = "raw", --drain lake lobby
+    [124786371598438] = "raw" -- drain lake game
 }
 
 local id = game.PlaceId
